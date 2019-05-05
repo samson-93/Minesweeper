@@ -1,6 +1,1 @@
-david1	66	0	
-Monty	130	0	
-Monty	24	0	
-David S	41	0	
-David K S	15	0	
-testCase1001	13	0	
+
