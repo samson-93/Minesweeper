@@ -1,0 +1,4 @@
+#	Add reset button to change all settings to default
+#	Make .txt files binary or encrypted files
+#	Add ESCAPE function for game view
+#	Make flagged buttons un-clickable save in Hard Mode
