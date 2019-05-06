@@ -1,5 +1,13 @@
-# # This file is a compilation of ideas and goals for improvements, changes, and fixes to this python application
-# Add reset button to change all settings to default
-#	Make .txt files binary or encrypted files
+#	#   IDEAS.txt is a file for storing ideas, improvements, fixes for this application
+
+#   Add reset button to change all settings to default
+#	Make .txt files a more secure and safe form for data storage 
+#       https://gamedev.stackexchange.com/questions/19046/what-is-a-good-file-format-for-saving-game-data
+#       The above article suggests "controlled binary serialization", JSON, and XML as all possible options
 #	Add ESCAPE function for game view
-#	Make flagged buttons un-clickable save in Hard Mode
+#       Likely with a bind to the <ESCAPE> key, a top-menu dropdown, or additional buttons added
+#	Make flagged buttons un-clickable
+#       Provide exception for Hard Mode
+#   Make the GUI unable to readjust in size OR bind tkinter elements to the window size
+#   Assign different 'fg' values depending on the number displayed
+#   Change color-design on buttons ('bg' in particular)
