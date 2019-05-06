@@ -6,7 +6,7 @@
 #\t\tThe above article suggests "controlled binary serialization", JSON, and XML as all possible options
 #\tAdd ESCAPE function for game view
 #\t\tLikely with a bind to the <ESCAPE> key, a top-menu dropdown, or additional buttons added
-#tMake flagged buttons un-clickable
+#\tMake flagged buttons un-clickable
 #\t\tProvide exception for Hard Mode
 #\tMake the GUI unable to readjust in size OR bind tkinter elements to the window size
 #\tAssign different 'fg' values depending on the number displayed
